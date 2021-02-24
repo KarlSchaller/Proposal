@@ -1,4 +1,4 @@
-# Freqtrade
+# Features for Freqtrade
 
 ## Project Abstract
 Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
@@ -7,7 +7,7 @@ Features:
 -   Develop your own Strategy in python, using pandas
 -   Download historical market data
 -   Backtest: Test your strategy on downloaded historical data
--   Optimize: Find the best parameters for your strategy using hyperoptimization which employs machining learning methods
+-   Optimize: Find the best parameters for your strategy using hyperoptimization which employs machine learning methods
 -   Select markets you want to trade on
 -   Run: Test your strategy with simulated money (Dry-Run mode) or deploy it with real money (Live-Trade mode)
 -   Control/Monitor: Use Telegram or a REST API (start/stop the bot, show profit/loss, daily summary, current open trades results, etc.)
